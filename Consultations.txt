@@ -1,0 +1,14 @@
+Employee ID,Employee Name,Consultation Time,Consultation Reason
+E003,Karim Ait,08:00,Work Accident
+E004,Yasmine Hadj,08:45,Work Accident
+E006,Lina Belkacem,09:30,Work Accident
+E007,Reda Chenouf,10:15,Work Accident
+E009,Hamouda Hatem,11:00,Work Accident
+E008,Fatima Meziane,11:45,Work Accident
+E010,Bensaada Belaid,12:30,Work Accident
+E001,Ali Benkacem,13:15,Work Accident
+E010,Bensaada Belaid,14:00,Work Accident
+E001,Ali Benkacem,14:45,Occupational disease
+E005,Omar Touati,09:30,Occupational disease
+E003,Karim Ait,11:00,Occupational disease
+NotYet,Not Yet,14:00,Pre-employment visit

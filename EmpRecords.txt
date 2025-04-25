@@ -1,0 +1,11 @@
+Employee ID,Name,Total Number of Consultations,Total Number of Consultations,Last consultation Date,Return to work Date,History,History,History,History,History
+E001,Ali Benkacem,5,10/03/2025,01/01/1900,Work accident,Periodic examination,None,None,None
+E002,Sarah Messaoud,3,25/02/2025,28/02/2025,Occupational disease,Periodic examination,None,None,None
+E003,Karim Ait,7,20/03/2025,01/01/1900,Work accident,Pre-employment visit,None,None,None
+E004,Yasmine Hadj,4,05/03/2025,01/01/1900,Work accident,Occupational disease,None,None,None
+E005,Omar Touati,6,15/02/2025,22/02/2025,Periodic examination,Occupational disease,None,None,None
+E006,Lina Belkacem,2,12/03/2025,01/01/1900,Pre-employment visit,None,None,None,None
+E007,Reda Chenouf,5,28/02/2025,04/03/2025,Work accident,Periodic examination,Occupational disease,None,None
+E008,Fatima Meziane,3,18/03/2025,01/01/1900,Pre-employment visit,None,None,None,None
+E009,Hamouda Hatem,4,14/03/2025,01/01/1900,Work accident,Periodic examination,Occupational disease,None,None
+E010,Bensaada Belaid,6,29/03/2024,24/03/2025,Pre-employment visit,Periodic examination,Work accident,None,None
